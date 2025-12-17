@@ -8,7 +8,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Bot Token - Railway se aayega
-TOKEN = os.environ.get("BOT_TOKEN")
+TOKEN = os.environ.get("7966362624:AAGXVK_MQmaXeEoI64oA8rJcla3XkYnQVXw")
 
 # Owner ka naam
 OWNER_NAME = "Adarsh"
