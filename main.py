@@ -2,7 +2,7 @@ main.py
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 import random
 
-TOKEN = "7966362624:AAExYA1-R3adcGHCh4Lu1t0ojdN1YslSrUo"
+TOKEN = "7966362624:AAGXVK_MQmaXeEoI64oA8rJcla3XkYnQVXw"
 GROUP_LINK = "https://t.me/+UhZo8ZsUECYyYWI1"
 
 def start(update, context):
